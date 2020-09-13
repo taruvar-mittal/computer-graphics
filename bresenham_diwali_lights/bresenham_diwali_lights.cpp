@@ -5,8 +5,6 @@
 
 using namespace std;
 
-
-
 void print(int xcenter, int ycenter, int x, int y, int color)
 {
 	putpixel(xcenter+x, ycenter+y, color);
