@@ -28,7 +28,6 @@ void circl(int a, int b,int r){
         float d = 1 -  r;
         int cnt = 0;
         while(y>=x){
-
             x++;
             if(d>0){
                 y--;
