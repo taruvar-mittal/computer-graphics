@@ -1,9 +1,7 @@
 #include<iostream>
-#include <stdio.h> 
-//#include <dos.h> 
+#include <stdio.h>  
 #include <graphics.h> 
 using namespace std;
-
 
 void print(int xcenter, int ycenter, int x, int y) 
 { 
