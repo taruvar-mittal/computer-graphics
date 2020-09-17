@@ -48,7 +48,6 @@ int main()
 	}
    }
 
-
    p=ry*ry*(x+0.5)*(x+0.5)+rx*rx*(y-1)*(y-1)-rx*rx*ry*ry;
    while(y >= 0)
    { plot(x,y,xc,yc);
