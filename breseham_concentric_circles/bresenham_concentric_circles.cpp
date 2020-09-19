@@ -42,7 +42,6 @@ void draw(int xcenter, int ycenter, int radius)
 } 
 
 
-
 int main() 
 { 
 	int xcenter,ycenter,radius;
